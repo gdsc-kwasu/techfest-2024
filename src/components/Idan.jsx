@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 const Idan = () => {
   return (
     <div className="idan">
@@ -12,7 +12,13 @@ const Idan = () => {
               With all you’ve seen, Wouldn’t you still register for the event,
               Ehnn Idan?
             </p>
-            <button className="reg">Raise am!!! ASAP!!!</button>
+            <Link
+              className="reg"
+              target="_blank"
+              to="https://bit.ly/gdsckwasu-techfest24"
+            >
+              Raise am!!! ASAP!!!
+            </Link>
           </div>
         </div>
       </div>

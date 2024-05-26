@@ -8,7 +8,10 @@ const Navbar = () => {
   return (
     <nav>
       <img src="/Logonav.png" alt="" />
-      <div className={!Mobile ? `navlinks` : `mobileview`}>
+      <div
+        className={!Mobile ? `navlinks` : `mobileview`}
+        onClick={() => setMobile(false)}
+      >
         <Link to="/#about" onClick={() => scrollToSection("about")}>
           About
         </Link>
@@ -27,7 +30,9 @@ const Navbar = () => {
         <Link to="/#community" onClick={() => scrollToSection("community")}>
           Community
         </Link>
-        <button>Register Now</button>
+        <Link className="reg" target="_blank" to="https://bit.ly/gdsckwasu-techfest24">
+          Register Now
+        </Link>
       </div>
       <button className="mobile" onClick={() => setMobile(!Mobile)}>
         {Mobile ? <FaTimes /> : <RxHamburgerMenu />}

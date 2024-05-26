@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 const Sponsors = () => {
   return (
     <section className="sponsors">
@@ -10,7 +10,10 @@ const Sponsors = () => {
             <h2>Last Edition was good, This will be better, LOL</h2>
             <p>Meet our Sponsors from last edition</p>
           </div>
-          <button className="reg">Be a Sponsor</button>
+          <Link className="reg" target="_blank" to="https://bit.ly/techfest24-CFP">
+Be a Sponsor
+        </Link>
+
         </div>
         <div className="lower_content">
           <div className="row">

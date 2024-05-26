@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 const Community = () => {
   return (
     <section className="community">
@@ -15,7 +15,13 @@ const Community = () => {
               collaboration. Through workshops, hackathons, and cutting-edge
               projects, we empower students to shape the future of tech.
             </p>
-            <button className="reg">Join the Community</button>
+            <Link
+              className="reg"
+              target="_blank"
+              to="https://gdsc.community.dev/kwara-state-university/"
+            >
+Join the Community
+            </Link>
           </div>
           <div className="right">
             <img src="/Community.png" alt="" />

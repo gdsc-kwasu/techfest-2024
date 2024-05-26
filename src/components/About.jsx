@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 const About = () => {
   return (
     <section className="about">
@@ -38,7 +38,13 @@ const About = () => {
                 </li>
               </ul>
             </div>
-            <button className="reg">Register Now</button>
+            <Link
+              className="reg"
+              target="_blank"
+              to="https://bit.ly/gdsckwasu-techfest24"
+            >
+              Register Now
+            </Link>
           </div>
         </div>
       </div>

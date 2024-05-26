@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 const Speakers = () => {
   return (
     <section className="speakers">
@@ -13,7 +13,13 @@ const Speakers = () => {
             Sabi 100 Percent!
           </p>
         </div>
-        <button className="reg">Become a Speaker</button>
+        <Link
+          className="reg"
+          target="_blank"
+          to="https://bit.ly/techfest24"
+        >
+Become a Speaker
+        </Link>
       </div>
       <div className="image-holder" dir="ltr">
         <div className="image-container">

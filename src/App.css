@@ -25,18 +25,21 @@ nav {
   color: #131313;
   text-decoration: none;
 }
+
 .navlinks button,
 .mobileview button,
 .reg {
   font-size: 16px;
   font-weight: 400;
-  color: #fff;
+  color: #fff !important;
   border: none;
   background-color: #4285f4;
   padding: 10px 22px 10px 22px;
   border-radius: 100px;
   opacity: 0px;
+  text-decoration: none;
   width: fit-content;
+  cursor: pointer;
 }
 
 .hero {

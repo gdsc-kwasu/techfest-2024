@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import Accordion from "@mui/material/Accordion";
 import AccordionSummary from "@mui/material/AccordionSummary";
 import AccordionDetails from "@mui/material/AccordionDetails";
@@ -93,7 +94,8 @@ const Faq = () => {
                 </AccordionDetails>
               </Accordion>
             </div>
-            <button className="reg">Have Other Questions?</button>
+            <Link className="reg" to="https://gdsc.community.dev/kwara-state-university/" >Have Other Questions?</Link>
+            
           </div>
           <div className="right">
             <div className="dday">newsletter</div>
