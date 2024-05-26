@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className="footer">
       <div className="content">
-        <img src="/logonav.png" alt="" />
+        <img src="/Logonav.png" alt="" />
 
         <div className="footerlinks">
           <Link to="/#about" onClick={() => scrollToSection("about")}>

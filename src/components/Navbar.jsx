@@ -7,7 +7,7 @@ const Navbar = () => {
   const [Mobile, setMobile] = useState(false);
   return (
     <nav>
-      <img src="/logonav.png" alt="" />
+      <img src="/Logonav.png" alt="" />
       <div className={!Mobile ? `navlinks` : `mobileview`}>
         <Link to="/#about" onClick={() => scrollToSection("about")}>
           About

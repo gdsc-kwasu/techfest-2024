@@ -21,18 +21,18 @@ const About = () => {
               <ul>
                 <h3>Date & Time</h3>
                 <li>
-                  <img src="/vector.png" alt="" />
+                  <img src="/Vector.png" alt="" />
                   Saturday June 29, 2024
                 </li>
                 <li>
-                  <img src="/vector-1.png" alt="" />
+                  <img src="/Vector-1.png" alt="" />
                   9:00 AM WAT
                 </li>
               </ul>
               <ul>
                 <h3>Location</h3>
                 <li>
-                  <img src="/vector-2.png" alt="" />
+                  <img src="/Vector-2.png" alt="" />
                   ICT Auditorium, Kwara State <br />
                   University, Malete
                 </li>
