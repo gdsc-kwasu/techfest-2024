@@ -5,7 +5,7 @@ const Idan = () => {
     <div className="idan">
       <div className="content">
         <div className="flex">
-          <img src="public/idan.png" alt="" />
+          <img src="/idan.png" alt="" />
           <div className="text">
             <h2>You like what you see, IDAN?</h2>
             <p>
