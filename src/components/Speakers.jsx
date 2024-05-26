@@ -17,7 +17,7 @@ const Speakers = () => {
       </div>
       <div className="image-holder" dir="ltr">
         <div className="image-container">
-          <img src="/public/Jekayin-OluwaOlabemiwo.jpeg" alt="" />
+          <img src="/Jekayin-OluwaOlabemiwo.jpeg" alt="" />
           <div className="icontent">
             <div className="img-textt jk">
               <h3>Jekayin-Oluwa Olabemiwo</h3>
@@ -26,7 +26,7 @@ const Speakers = () => {
           </div>
         </div>
         <div className="image-container">
-          <img src="/public/DavidOwolabi.png" alt="" />
+          <img src="/DavidOwolabi.png" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>David Owolabi</h3>
@@ -35,7 +35,7 @@ const Speakers = () => {
           </div>
         </div>
         <div className="image-container">
-          <img src="/public/CytobizMedics.jpeg" alt="" />
+          <img src="/CytobizMedics.jpeg" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>jimoh Habibullahi</h3>
@@ -44,7 +44,7 @@ const Speakers = () => {
           </div>
         </div>
         <div className="image-container">
-          <img src="/public/FathiBabayeju.jpg" alt="" />
+          <img src="/FathiBabayeju.jpg" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Fathi Babayeju</h3>
@@ -53,7 +53,7 @@ const Speakers = () => {
           </div>
         </div>
         <div className="image-container">
-          <img src="/public/olajideoluwatoyin.jpeg" alt="" />
+          <img src="/olajideoluwatoyin.jpeg" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Olajide Oluwatoyin</h3>
@@ -62,7 +62,7 @@ const Speakers = () => {
           </div>
         </div>
         <div className="image-container">
-          <img src="/public/AdamAbdullahi.png" alt="" />
+          <img src="/AdamAbdullahi.png" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Adam Abdullahi</h3>
@@ -71,7 +71,7 @@ const Speakers = () => {
           </div>
         </div>
         <div className="image-container">
-          <img src="/public/CalebOlojo.jpg" alt="" />
+          <img src="/CalebOlojo.jpg" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Caleb Olojo</h3>
@@ -80,7 +80,7 @@ const Speakers = () => {
           </div>
         </div>
         <div className="image-container">
-          <img src="/public/AjijolaAdemola.png" alt="" />
+          <img src="/AjijolaAdemola.png" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Ademola Ajijola</h3>
@@ -89,7 +89,7 @@ const Speakers = () => {
           </div>
         </div>
         <div className="image-container">
-          <img src="/public/Fola.jpeg" alt="" />
+          <img src="/Fola.jpeg" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Alaran Khaerat</h3>
@@ -98,7 +98,7 @@ const Speakers = () => {
           </div>
         </div>
         <div className="image-container">
-          <img src="/public/DeolaMercy.jpg" alt="" />
+          <img src="/DeolaMercy.jpg" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Mercy Adeola</h3>
@@ -107,7 +107,7 @@ const Speakers = () => {
           </div>
         </div>
         <div className="image-container">
-          <img src="/public/TimiJoel.jpeg" alt="" />
+          <img src="/TimiJoel.jpeg" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Timi Joel</h3>

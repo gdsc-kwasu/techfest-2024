@@ -18,7 +18,7 @@ const Community = () => {
             <button className="reg">Join the Community</button>
           </div>
           <div className="right">
-            <img src="public/Community.png" alt="" />
+            <img src="/Community.png" alt="" />
           </div>
         </div>
       </div>

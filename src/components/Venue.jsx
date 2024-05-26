@@ -18,7 +18,7 @@ const Venue = () => {
               adventure awaits.
             </p>
             <div className="aboutli">
-              <img src="public/darklocat.png" alt="" />
+              <img src="/darklocat.png" alt="" />
               <p>
                 ICT Auditorium,
                 <br /> Kwara State University, Malete
@@ -26,7 +26,7 @@ const Venue = () => {
             </div>
           </div>
           <div className="right">
-            <img src="public/SeatArrangement.png" alt="" />
+            <img src="/SeatArrangement.png" alt="" />
           </div>
         </div>
       </div>

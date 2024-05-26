@@ -15,44 +15,44 @@ const Sponsors = () => {
         <div className="lower_content">
           <div className="row">
             <div className="column nf">
-              <img src="public/nexford.png" alt="" />
+              <img src="/nexford.png" alt="" />
             </div>
             <div className="column cw">
-              <img src="public/cowrywise.png" alt="" />
+              <img src="/cowrywise.png" alt="" />
             </div>
             <div className="column nf">
-              <img src="public/nexford.png" alt="" />
+              <img src="/nexford.png" alt="" />
             </div>
             <div className="column cw">
-              <img src="public/cowrywise.png" alt="" />
+              <img src="/cowrywise.png" alt="" />
             </div>
             {/* </div>
           <div className="row"> */}{" "}
             <div className="column cw">
-              <img src="public/cowrywise.png" alt="" />
+              <img src="/cowrywise.png" alt="" />
             </div>
             <div className="column nf">
-              <img src="public/nexford.png" alt="" />
+              <img src="/nexford.png" alt="" />
             </div>
             <div className="column cw">
-              <img src="public/cowrywise.png" alt="" />
+              <img src="/cowrywise.png" alt="" />
             </div>
             <div className="column nf">
-              <img src="public/nexford.png" alt="" />
+              <img src="/nexford.png" alt="" />
             </div>
             {/* </div>
           <div className="row"> */}
             <div className="column nf">
-              <img src="public/nexford.png" alt="" />
+              <img src="/nexford.png" alt="" />
             </div>
             <div className="column cw">
-              <img src="public/cowrywise.png" alt="" />
+              <img src="/cowrywise.png" alt="" />
             </div>
             <div className="column nf">
-              <img src="public/nexford.png" alt="" />
+              <img src="/nexford.png" alt="" />
             </div>
             <div className="column cw">
-              <img src="public/cowrywise.png" alt="" />
+              <img src="/cowrywise.png" alt="" />
             </div>
           </div>
         </div>

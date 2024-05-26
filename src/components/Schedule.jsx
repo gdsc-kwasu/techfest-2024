@@ -14,7 +14,7 @@ const Schedule = () => {
               event.
             </p>
             <button>Download Schedule</button>
-            <img src="public/schedule.png" alt="" />
+            <img src="/schedule.png" alt="" />
           </div>
           <div className="right">
             <div className="list-title">
