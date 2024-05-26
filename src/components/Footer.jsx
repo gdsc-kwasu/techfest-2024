@@ -15,7 +15,7 @@ const Footer = () => {
           </Link>
           <Link to="/#speakers" onClick={() => scrollToSection("speakers")}>
             Speakers
-          </Link>{" "}
+          </Link>
           <Link to="/#community" onClick={() => scrollToSection("community")}>
             Join the Community
           </Link>
