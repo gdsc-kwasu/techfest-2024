@@ -72,7 +72,7 @@ const Hero = () => {
             </div>
           </div>
           <div className="right">
-            <img src="/TechFest'24Logo.png" alt="" />
+            <img src="/TechFest'24Logo.webp" alt="" />
           </div>
         </div>
       </div>
