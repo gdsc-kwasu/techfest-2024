@@ -47,7 +47,7 @@ nav img {
 }
 
 .hero {
-  background-image: url("../public/BG.png");
+  background-image: url("/BG.webp");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1043,7 +1043,6 @@ nav img {
   .hero h1 {
     font-size: clamp(2rem, 10vw, 4rem);
     line-height: 54px;
-
   }
   .adjust {
     max-width: max-content;
@@ -1134,12 +1133,37 @@ nav img {
     line-height: 62.4px;
     letter-spacing: -0.02em;
   }
-  .timer h3{
+  .timer h3 {
     font-family: DM Sans;
-font-size: 8.48px;
-font-weight: 400;
-line-height: 8.48px;
-text-align: left;
-
+    font-size: 8.48px;
+    font-weight: 400;
+    line-height: 8.48px;
+    text-align: left;
   }
+  .dday,
+  .d-day {
+    font-size: 12px;
+  }
+  .image-container img {
+    width: 270px;
+  }
+  .jk {
+    background-color: #fff;
+    padding: 11px 15px;
+    border-radius: 20px;
+  }
+  .icontent {
+    position: absolute;
+    transform: translate(6.5%, -10%);
+    width: 238px;
+    height: 115px;
+    bottom: 0;
+    margin: 0 auto;
+    z-index: 1000;
+  }
+  .img-textt {
+    background-color: #fff;
+    padding: 15px 30px;
+    border-radius: 20px;
+}
 }
