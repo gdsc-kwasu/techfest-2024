@@ -6,7 +6,7 @@ const About = () => {
       <div className="content">
         <div className="flex">
           <div className="left">
-            <img src="/aboutimg.png" alt="" />
+            <img src="/aboutimg.webp" alt="" />
           </div>
           <div className="right">
             <div className="dday">About TechFest’24</div>
@@ -31,10 +31,10 @@ const About = () => {
               </ul>
               <ul>
                 <h3>Location</h3>
-                <li>
+                <li className="adjust">
                   <img src="/Vector-2.png" alt="" />
-                  ICT Auditorium, Kwara State <br />
-                  University, Malete
+                  <p>ICT Auditorium, Kwara State 
+                  University, Malete</p>
                 </li>
               </ul>
             </div>

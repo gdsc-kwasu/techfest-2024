@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 import Navbar from "./components/Navbar";
-import Hero from "./components/Hero";
+// import Hero from "./components/Hero";
 import About from "./components/About";
 import Featuring from "./components/Featuring";
 import Speakers from "./components/Speakers";
@@ -18,7 +18,7 @@ function App() {
     <>
       <Navbar />
       <section id="home">
-        <Hero />
+        {/* <Hero /> */}
       </section>
 
       <section id="about">

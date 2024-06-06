@@ -24,7 +24,7 @@ Join the Community
             </Link>
           </div>
           <div className="right">
-            <img src="/Community.png" alt="" />
+            <img src="/Community.webp" alt="" />
           </div>
         </div>
       </div>

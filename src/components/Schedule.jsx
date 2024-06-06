@@ -14,7 +14,7 @@ const Schedule = () => {
               event.
             </p>
             <button>Download Schedule</button>
-            <img src="/schedule.png" alt="" />
+            <img src="/schedule.webp" alt="" />
           </div>
           <div className="right">
             <div className="list-title">
@@ -36,8 +36,8 @@ const Schedule = () => {
               <ul className="bitgap">
                 <li>
                   <div>
-                    Programme 1 <br />
-                    <p style={{ fontWeight: "500" }}>
+                    Programme 1
+                    <p style={{ fontWeight: "500", color: "#B6B6B6" }}>
                       Switch things up by embracing the buzz of tech events or
                       become part of a vibrant community of kindred spirits.
                     </p>
@@ -80,6 +80,80 @@ const Schedule = () => {
                   </div>
                 </li>
               </ul>
+            </div>
+          </div>
+          <div className="right">
+            <div className="list-title-two">
+              <div className="row">
+                <ul className="list-style-ico-two">
+                  <div className="ss"></div>
+                  <li>1</li>
+                </ul>
+                <div className="text">
+                  <h4>Programme 1</h4>
+                  <p style={{ fontWeight: "500", color: "#B6B6B6" }}>
+                    Switch things up by embracing the buzz of tech events or
+                    become part of a vibrant community of kindred spirits.
+                  </p>
+                  <p className="time">09:00 - 11:00</p>
+                </div>
+              </div>
+              <div className="row">
+                <ul className="list-style-ico-two">
+                  <div className="ss"></div>
+                  <li>2</li>
+                </ul>
+                <div className="text">
+                  <h4>Programme 2</h4>
+                  <p style={{ fontWeight: "500", color: "#B6B6B6" }}>
+                    Switch things up by embracing the buzz of tech events or
+                    become part of a vibrant community of kindred spirits.
+                  </p>
+                  <p className="time">11:00 - 12:00</p>
+                </div>
+              </div>
+              <div className="row">
+                <ul className="list-style-ico-two">
+                  <div className="ss"></div>
+                  <li>3</li>
+                </ul>
+                <div className="text">
+                  <h4>Programme 3</h4>
+                  <p style={{ fontWeight: "500", color: "#B6B6B6" }}>
+                    Switch things up by embracing the buzz of tech events or
+                    become part of a vibrant community of kindred spirits.
+                  </p>
+                  <p className="time">12:00 - 14:00</p>
+                </div>
+              </div>
+              <div className="row">
+                <ul className="list-style-ico-two">
+                  <div className="ss"></div>
+                  <li>4</li>
+                </ul>
+                <div className="text">
+                  <h4>Programme 4</h4>
+                  <p style={{ fontWeight: "500", color: "#B6B6B6" }}>
+                    Switch things up by embracing the buzz of tech events or
+                    become part of a vibrant community of kindred spirits.
+                  </p>
+                  <p className="time">14:00 - 15:00</p>
+                </div>
+              </div>
+              <div className="row">
+                <ul className="list-style-ico-two">
+                  <div className="ss"></div>
+                  <li>5</li>
+                </ul>
+                <div className="text">
+                  <h4>Programme 5</h4>
+                  <p style={{ fontWeight: "500", color: "#B6B6B6" }}>
+                    Switch things up by embracing the buzz of tech events or
+                    become part of a vibrant community of kindred spirits.
+                  </p>
+                  <p className="time">15:00 - 17:00</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>

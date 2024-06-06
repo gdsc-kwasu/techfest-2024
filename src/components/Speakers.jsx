@@ -16,14 +16,14 @@ const Speakers = () => {
         <Link
           className="reg"
           target="_blank"
-          to="https://bit.ly/techfest24"
+          to="https://bit.ly/gdsckwasu-techfest24"
         >
-Become a Speaker
+          Register Now
         </Link>
       </div>
       <div className="image-holder" dir="ltr">
         <div className="image-container">
-          <img src="/Jekayin-OluwaOlabemiwo.jpeg" alt="" />
+          <img src="/Jekayin-OluwaOlabemiwo.webp" alt="" />
           <div className="icontent">
             <div className="img-textt jk">
               <h3>Jekayin-Oluwa Olabemiwo</h3>
@@ -32,7 +32,7 @@ Become a Speaker
           </div>
         </div>
         <div className="image-container">
-          <img src="/DavidOwolabi.png" alt="" />
+          <img src="/DavidOwolabi.webp" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>David Owolabi</h3>
@@ -50,7 +50,7 @@ Become a Speaker
           </div>
         </div>
         <div className="image-container">
-          <img src="/FathiBabayeju.jpg" alt="" />
+          <img src="/FathiBabayeju.webp" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Fathi Babayeju</h3>
@@ -59,7 +59,7 @@ Become a Speaker
           </div>
         </div>
         <div className="image-container">
-          <img src="/olajideoluwatoyin.jpeg" alt="" />
+          <img src="/olajideoluwatoyin.webp" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Olajide Oluwatoyin</h3>
@@ -68,7 +68,7 @@ Become a Speaker
           </div>
         </div>
         <div className="image-container">
-          <img src="/AdamAbdullahi.png" alt="" />
+          <img src="/AdamAbdullahi.webp" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Adam Abdullahi</h3>
@@ -77,7 +77,7 @@ Become a Speaker
           </div>
         </div>
         <div className="image-container">
-          <img src="/CalebOlojo.jpg" alt="" />
+          <img src="/CalebOlojo.webp" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Caleb Olojo</h3>
@@ -86,7 +86,7 @@ Become a Speaker
           </div>
         </div>
         <div className="image-container">
-          <img src="/AjijolaAdemola.png" alt="" />
+          <img src="/AjijolaAdemola.webp" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Ademola Ajijola</h3>
@@ -95,7 +95,7 @@ Become a Speaker
           </div>
         </div>
         <div className="image-container">
-          <img src="/Fola.jpeg" alt="" />
+          <img src="/Fola.webp" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Alaran Khaerat</h3>
@@ -113,7 +113,7 @@ Become a Speaker
           </div>
         </div>
         <div className="image-container">
-          <img src="/TimiJoel.jpeg" alt="" />
+          <img src="/TimiJoel.webp" alt="" />
           <div className="icontent">
             <div className="img-textt">
               <h3>Timi Joel</h3>

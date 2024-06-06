@@ -19,7 +19,7 @@ const Featuring = () => {
           <div className="right">
             <div className="column">
               <div className="img">
-                <img src="/network.png" alt="" />
+                <img src="/network.webp" alt="" />
               </div>
               <div className="text">
                 <h3>Networking</h3>
@@ -31,7 +31,7 @@ const Featuring = () => {
             </div>
             <div className="column">
               <div className="img">
-                <img src="/speak.png" alt="" />
+                <img src="/speak.webp" alt="" />
               </div>
               <div className="text">
                 <h3>Great Speakers</h3>
@@ -43,7 +43,7 @@ const Featuring = () => {
             </div>
             <div className="column">
               <div className="img">
-                <img src="/learn.png" alt="" />
+                <img src="/learn.webp" alt="" />
               </div>
               <div className="text">
                 <h3>Insightful Learning</h3>

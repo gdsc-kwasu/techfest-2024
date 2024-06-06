@@ -7,7 +7,7 @@ const Navbar = () => {
   const [Mobile, setMobile] = useState(false);
   return (
     <nav>
-      <img src="/Logonav.png" alt="" />
+      <img src="/Logonav.webp" alt="" />
       <div
         className={!Mobile ? `navlinks` : `mobileview`}
         onClick={() => setMobile(false)}

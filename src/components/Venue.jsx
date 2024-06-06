@@ -26,7 +26,7 @@ const Venue = () => {
             </div>
           </div>
           <div className="right">
-            <img src="/SeatArrangement.png" alt="" />
+            <img src="/SeatArrangement.webp" alt="" />
           </div>
         </div>
       </div>
