@@ -49,7 +49,7 @@ const Hero = () => {
           <div className="left">
             <div className="dday">Saturday June 29, 2024 | 9:00 AM WAT</div>
             <h1>
-              Google Developer Students Club KWASU <br />
+              Google Developer Students Clubs, KWASU <br />
               <span>TechFest’24</span>
             </h1>
             <div className="countdown">

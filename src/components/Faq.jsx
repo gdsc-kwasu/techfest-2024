@@ -32,9 +32,7 @@ const Faq = () => {
                   When is TECHFEST’24?
                 </AccordionSummary>
                 <AccordionDetails>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                  eget.
+                 TECHFEST'24 is scheduled to happen JUNE 29TH 2024.
                 </AccordionDetails>
               </Accordion>
               <Accordion>
@@ -46,9 +44,7 @@ const Faq = () => {
                   Where is the venue for TECHFEST’24?
                 </AccordionSummary>
                 <AccordionDetails>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                  eget.
+                  The venue for TECHFEST'24 is Faculty of ICT Auditorium, Kwara State University, Malete, Nigeria.
                 </AccordionDetails>
               </Accordion>
               <Accordion>
@@ -60,9 +56,7 @@ const Faq = () => {
                   Is TECHFEST’24 a physical or virtual event?
                 </AccordionSummary>
                 <AccordionDetails>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                  eget.
+                  TECHFEST'24 is a physical event.
                 </AccordionDetails>
               </Accordion>
               <Accordion>
@@ -74,9 +68,7 @@ const Faq = () => {
                   How can I register to attend TECHFEST’24?
                 </AccordionSummary>
                 <AccordionDetails>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                  eget.
+                  You can register by clicking this link: <Link to='https://bit.ly/gdsckwasu-techfest24'>https://bit.ly/gdsckwasu-techfest24</Link>
                 </AccordionDetails>
               </Accordion>
               <Accordion>
@@ -88,9 +80,7 @@ const Faq = () => {
                   Is sponsorship still open for TECHFEST’24
                 </AccordionSummary>
                 <AccordionDetails>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Suspendisse malesuada lacus ex, sit amet blandit leo lobortis
-                  eget.
+                 Yes, you can still become a sponsor for TECHFEST'24. Click this link to apply: <Link to='https://bit.ly/techfest24-CFP'>https://bit.ly/techfest24-CFP</Link>
                 </AccordionDetails>
               </Accordion>
             </div>

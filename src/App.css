@@ -123,11 +123,13 @@ nav img {
   font-size: 14px;
   font-weight: 400;
   line-height: 14px;
+  text-transform: uppercase;
   text-align: left;
 }
 .countdown .timer {
   padding: 10px 22px 10px 22px;
-  max-width: 120px;
+  width: 74px;
+  height: 95px;
   border: 0.5px 0.5px 4px 0.5px;
   opacity: 0px;
 }
@@ -167,8 +169,8 @@ nav img {
   height: 464px;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  gap: 1rem;
+  /* justify-content: space-between;
+  gap: 1rem; */
   /* align-items: flex-start; */
 }
 .about .left img {
@@ -184,6 +186,7 @@ nav img {
   font-weight: 500;
   line-height: 52.8px;
   letter-spacing: -0.02em;
+  padding-bottom: 20px;
   text-align: left;
 }
 .about .right p {
@@ -192,6 +195,7 @@ nav img {
   font-weight: 400;
   line-height: 25.6px;
   text-align: left;
+  padding-bottom: 40px;
 }
 .about .content,
 .featuring .content,
@@ -588,8 +592,9 @@ nav img {
   line-height: 25.6px;
   width: 100%;
 }
-.schedule .left button {
+.schedule .left a {
   width: fit-content;
+  text-decoration: none;
   color: #fff;
   background-color: transparent;
   padding: 11px 30px 11px 30px;
@@ -655,6 +660,10 @@ nav img {
   font-weight: 400;
   line-height: 25.6px;
   text-align: left;
+}
+.MuiAccordionDetails-root a {
+  color: #4285f4;
+  text-decoration: none;
 }
 .MuiAccordionSummary-content {
   color: #131313;
@@ -753,6 +762,7 @@ nav img {
   .hero .content {
     max-width: 520px;
     width: 90%;
+    padding-top: 0;
   }
   .venue .flex,
   .community .flex {
@@ -850,24 +860,22 @@ nav img {
   scroll-snap-align: center;
 }
 
+.image-holder::-webkit-scrollbar {
+  display: none;
+}
+
+.image-holder {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
 .image-container {
-  height: 400px;
+  height: 350px;
   position: relative;
   width: 320px;
 }
-/* .image-container::before {
-  content: "";
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgb(82, 138, 207);
-  opacity: 0.5;
-} */
+
 .image-container img {
-  height: 400px;
+  height: 350px;
   width: 320px;
 }
 
@@ -1001,7 +1009,7 @@ nav img {
   width: 100%;
 }
 
-.footer .content {
+.footer .footercontent {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -1009,7 +1017,6 @@ nav img {
 }
 .footerlinks {
   display: flex;
-  flex-direction: column;
   gap: 2rem;
 }
 .footerlinks a {
@@ -1021,7 +1028,8 @@ nav img {
   line-height: 20.83px;
   text-align: left;
 }
-.footer .content button {
+.footer button {
+  margin: 0 auto;
   border: none;
   background-color: transparent;
   color: #616161;
@@ -1127,10 +1135,20 @@ nav img {
     letter-spacing: -0.02em;
     text-align: left;
   }
+  .countdown .timer {
+    width: 41.63px;
+    height: 52.63px;
+    padding: 7.27px 14.53px 7.27px 14.53px;
+    gap: 2.42px;
+    border: 0.3px 0.3px 2.42px 0.3px;
+    opacity: 0px;
+  }
   .timer h2 {
     font-size: 32px;
     font-weight: 500;
-    line-height: 62.4px;
+    line-height: 37.79px;
+    padding: 0;
+    margin: 0;
     letter-spacing: -0.02em;
   }
   .timer h3 {
@@ -1165,5 +1183,5 @@ nav img {
     background-color: #fff;
     padding: 15px 30px;
     border-radius: 20px;
-}
+  }
 }

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Schedule = () => {
   return (
@@ -13,7 +14,9 @@ const Schedule = () => {
               Download the event agenda now to stay updated throughout the
               event.
             </p>
-            <button>Download Schedule</button>
+            <Link target="_blank" to="https://docs.google.com/document/d/1NB05DUX-_R0eGi6e1q8Ckj8TsoiLfLCNCxPXnk-E05s/edit?usp=sharing">
+              Download Schedule
+            </Link>
             <img src="/schedule.webp" alt="" />
           </div>
           <div className="right">
