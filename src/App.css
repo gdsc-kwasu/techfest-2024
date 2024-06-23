@@ -871,12 +871,11 @@ nav img {
   scrollbar-width: none;
 }
 .image-container {
-  height: 350px;
   position: relative;
-  width: 320px;
 }
 
 .image-container img {
+  object-fit: cover;
   height: 350px;
   width: 320px;
 }
